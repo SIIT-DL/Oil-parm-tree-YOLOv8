@@ -31,6 +31,16 @@ version = project.version(4)
 dataset = version.download("yolov8")
 ```
 
+## Streamlit installation and run app
+
+```bash
+# Install streamlit
+pip install streamlit
+
+# Run streamlit web app on local host
+streamlit run app.py
+```
+
 ## Acknowledgements
 
 The dataset used for this project is the **MOPAD** 
