@@ -30,3 +30,11 @@ project = rf.workspace("aakash-thapa-5qpod").project("palm-tree-yalqu")
 version = project.version(4)
 dataset = version.download("yolov8")
 ```
+
+## Acknowledgements
+
+The dataset used for this project is the **MOPAD** 
+
+You can access the MOPAD dataset from the following link:
+
+[MOPAD Data Link](https://github.com/rs-dl/MOPAD?tab=readme-ov-file)
