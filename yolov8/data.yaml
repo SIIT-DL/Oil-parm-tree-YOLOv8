@@ -7,9 +7,9 @@ nc: 4
 roboflow:
   license: CC BY 4.0
   project: palm-tree-yalqu
-  url: https://universe.roboflow.com/aakash-thapa-5qpod/palm-tree-yalqu/dataset/4
-  version: 4
+  url: https://universe.roboflow.com/aakash-thapa-5qpod/palm-tree-yalqu/dataset/6
+  version: 6
   workspace: aakash-thapa-5qpod
-test: palm-tree-4/test/images
-train: palm-tree-4/train/images
-val: palm-tree-4/valid/images
+test: palm-tree-6/test/images
+train: palm-tree-6/train/images
+val: palm-tree-6/valid/images
