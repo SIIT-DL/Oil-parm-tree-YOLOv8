@@ -37,6 +37,6 @@ The dataset used for this project is the **MOPAD**
 You can access the MOPAD dataset from the following link:
 [MOPAD Data Link](https://github.com/rs-dl/MOPAD?tab=readme-ov-file)
 
-This project uses code from **Ultralytics**' YOLOv8 implementation.
-You can find more about Ultralytics and their YOLOv8 implementation at the following link:
-[Ultralytics YOLOv8 Repository](https://github.com/ultralytics/yolov8)
+This project uses code from **Ultralytics**.
+You can find more about Ultralytics at the following link:
+[Ultralytics Repository](https://github.com/ultralytics)
