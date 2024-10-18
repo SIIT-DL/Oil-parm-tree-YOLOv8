@@ -19,18 +19,6 @@ pip install -e .
 
 ```
 
-## Download Updated Dataset MOPAD
-
-```bash
-!pip install roboflow
-
-from roboflow import Roboflow
-rf = Roboflow(api_key="tV2NdldKtjE2DvIrG2y5")
-project = rf.workspace("aakash-thapa-5qpod").project("palm-tree-yalqu")
-version = project.version(6)
-dataset = version.download("yolov8")
-```
-
 ## Streamlit installation and run app
 
 ```bash
