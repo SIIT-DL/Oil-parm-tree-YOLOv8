@@ -40,4 +40,4 @@ The original data used in the MOPAD study includes five oil palm classes: "Dead"
 
 ## Acknowledgements
 
-The authors acknowledge the contributors of the datasetused in the MOPAD study and Ultralytics team. This project uses code from **Ultralytics**. You can find more about Ultralytics at the following link: [Ultralytics Repository](https://github.com/ultralytics)
+The authors acknowledge the contributors of the dataset used in the MOPAD study and Ultralytics team. This project uses code from **Ultralytics**. You can find more about Ultralytics at the following link: [Ultralytics Repository](https://github.com/ultralytics)
