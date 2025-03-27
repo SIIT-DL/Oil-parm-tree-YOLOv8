@@ -31,8 +31,8 @@ streamlit run app.py
 
 ## Dataset
 
-### Accessing Dataset
-The dataset used in this project is the MOPAD, which can be accessed from the following link: https://github.com/rs-dl/MOPAD?tab=readme-ov-file
+### Accessing Dataset  
+The dataset used in this project is from the study [**MOPAD: A multi-class oil palm detection method in UAV images**](https://doi.org/10.1016/j.isprsjprs.2021.01.008), and can be accessed from the following GitHub link: [https://github.com/rs-dl/MOPAD](https://github.com/rs-dl/MOPAD)
 
 ### Corrected Labels
 The MOPAD dataset includes "Dead", "Healthy", "Small", "Yellow", and "Mismanaged" oil palm classes. This project uses a modified version of the MOPAD dataset with corrected labels, since several inconsistencies in labeling were identified. We addressed this issue and corrected the mislabeling, resulting in only four classes: "Dead", "Healthy", "Small", and "Yellow", labels available in [updated labels MOPAD dataset](https://github.com/SIIT-DL/Oil-parm-tree-YOLOv8/tree/main/updated%20labels%20MOPAD%20dataset).  
